@@ -1,0 +1,20 @@
+* não utilizar células mescladas em base de dados; ainda mais na vertical*
+* usar um Ctrl T (a fim de identificar o limite da área de dados da base)
+* eliminar linha em branco 
+* caso tenha colunas ocultas, seleciona-las e clicar em re-exibir; - caso esteja vazia exclua 
+- voltando ao Ctrl T - clicamos Ctrl "." - alternando entre os cantos da seleção - e Ctrl END - para verificar o final da tabela
+OBS.: ALT + ENTER quebra de texto 
+- (Tratamento da base de dados) caso tenha que separarmos nomes e sejam muitos, separar por sobrenomes - para números de identidade (onde queremos remover os traços) ir em "localizar e selecionar" - ir em substituir - Na célula Localizar colocar "-" somente - e substituir tudo (deixar o de baixo em branco)
+OBS.: Podemos ir também em "formatar células" - "personalizado" - e colocar a quantidade de A.S. desejados 
+- Para telefones usamos o mesmo processo;
+- Caso tenhamos duas datas diferentes, em uma mesma coluna - inserimos uma coluna extra, Aplicamos o mesmo processo feito anteriormente, podendo substituir os símbolos um à um - ir na em "Dados" - "textos para colunas" - delimitado - em "outros" inserir "|" - ok 
+- selecionar as duas céluulas da data - formatar para "DATA" - Caso apareça "present" substituir por "célula em branco". NÃO APAGAR, POIS PODEMOS USA-LA
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+- Com os dados estruturados, seguimos com os dados para tabela. - "Inseir tabela" - EDITAR DE ACORDO COM O GOSTO - 
+- Atente - se às fórmulas / CLASSIFICAÇÃO DOS DADOS (ordem em que aparecem) - sempre expadir a seleção caso mude de referência - 
+OBS.: sobre a ação "subtotal" ela só pode ser aplicada em bases convencionais não convertidas.
+- so copiar dados do subtotal, podemos usar (Para copiar uma listagem com Subtotais que já tenha sido recolhida, de modo a que apenas os dados visíveis sejam copiados, você deve selecionar os dados e então pressionar - ) alt + ; seleciona os dados com os valores totais, sem considerar linhas ocultas 
+- Caso aparente desproporção selecionamos o que queremos novamente, vamos em Localizae e sel., ir para especial, selecionar somente células visíveis, - alt + =, é um caminho.
+- assim que fnalizado copiamos de novo e colamos a tabela selecionada
+OBS.: antes de fazer o subtotal lembrar de classificar a listagem. 

@@ -1,0 +1,48 @@
+conexão com banco na nuvem
+
+http://dbservertrainning.database.windows.net/
+
+banco (opcional)
+
+modo de conectividade: 
+
+- importar: copiar todas as linhas de todas as tabelas selecioadas, auda a evitar concorrencias, além de rendenizar mais rápido,
+
+- direct query: linhas não são importadas e a conexão será online 
+
+OLTP: Online
+
+usuário: trainning 
+senha: Pa55w.rd
+
+
+AULA 2 extraindo bases de dados do SQL server local
+
+através do MNGT STUDIO 
+
+- use DBSysConVendas;
+
+- select * from TBDados
+
+CREDENCIAIS 
+
+SERVIDOR: 172.16.10.168
+
+SERVIDOR: DBSysConVendas
+
+Tabela: TBDADOS
+
+MODO DE CONECTIVIDADE: Imortar
+
+user: SA 
+
+Senha: trainning 
+
+
+* verificar no power query os tipos de dados 
+
+
+
+
+
+
